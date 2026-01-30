@@ -21,7 +21,7 @@ clear technical reporting and risk-based security decisions.
 
 **Scripting & Automation**
 - Bash
-- Python (basic automation)
+- Python
 
 **Frameworks & Standards**
 - NIST Cybersecurity Framework
