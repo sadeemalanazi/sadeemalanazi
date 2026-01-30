@@ -1,16 +1,41 @@
-## Hi there 👋
+## Security Practitioner | Infrastructure & Network Defense
 
-<!--
-**sadeemalanazi/sadeemalanazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧭 Mission
+I focus on analyzing, securing, and documenting enterprise
+infrastructure with an emphasis on availability, access control,
+and failure prevention. My work prioritizes reproducible labs,
+clear technical reporting and risk-based security decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolkit
+
+**Operating Systems**
+- Linux (Ubuntu, Kali)
+- Windows Server
+
+**Networking & Security**
+- TCP/IP, DNS, BGP
+- Firewalls, Network Segmentation
+- Wireshark, Nmap
+
+**Scripting & Automation**
+- Bash
+- Python (basic automation)
+
+**Frameworks & Standards**
+- NIST Cybersecurity Framework
+- MITRE ATT&CK
+
+---
+
+### 📌 Highlighted Work
+Pinned repositories below showcase documented security labs,
+infrastructure analysis, and enterprise-focused technical exercises.
+
+---
+
+### 📈 Professional Signals
+- Documented security and infrastructure labs
+- Experience analyzing system failures and access control risks
+- Emphasis on professional documentation and operational discipline
